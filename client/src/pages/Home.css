@@ -1,0 +1,18 @@
+.home-container {
+  background: linear-gradient(to bottom right, #ffb6c1, #ffc0cb);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://www.transparenttextures.com/patterns/flowers.png");
+  background-repeat: repeat;
+}
+
+.form-container {
+  background-color: rgba(221, 155, 155, 0.9);
+  padding: 30px;
+  border-radius: 15px;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
